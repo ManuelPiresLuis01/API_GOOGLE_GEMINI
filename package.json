@@ -1,0 +1,19 @@
+{
+  "name": "ia",
+  "version": "1.0.0",
+  "description": "teste de ia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "teste"
+  },
+  "author": "manuelpiresluis",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.21.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
